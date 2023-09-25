@@ -10,5 +10,3 @@ And this specific repository contains documentation about the COMSOL software, w
 &nbsp;
 <br/>
 &nbsp;
-
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/09/m_COMSOL_Vibrations.gif)](https://dicer0.com/#skills)
