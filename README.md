@@ -11,4 +11,4 @@ And this specific repository contains documentation about the COMSOL software, w
 <br/>
 &nbsp;
 
-[![COMSOL Multiphysics](http://dicer0.com/wp-content/uploads/2023/09/m_COMSOL_Compressed.gif)](https://dicer0.com/#skills)
+[![COMSOL Multiphysics](http://dicer0.com/wp-content/uploads/2024/05/m_COMSOL_MkII.gif)](https://dicer0.com/#skills)
